@@ -9,4 +9,5 @@
 * Chapter 3: Qualitative Findings: Interviews and Observations
 * Chapter 4: Model Curricula in Data and Computation
 * Chapter 5: Institutional Recommendations
+* Appendix
 
