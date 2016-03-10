@@ -1,1 +1,1 @@
-This report offers a picture of the state of data and computational journalism education, an argument that it is necessary journalism schools to teach and conduct research in these areas, and a set of model curricula and institutional recommendations to help facilitate these changes.
+This report offers a picture of the state of data and computational journalism education, an argument that it is necessary for journalism schools to teach and conduct research in these areas, and a set of model curricula and institutional recommendations to help facilitate these changes.
