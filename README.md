@@ -119,7 +119,7 @@ Acknowledgments 92
 
 
 
-Preface
+## Preface
 
 The digital revolution ushered in fundamental changes in how information is structured. It also brought changes in how governments and corporations use information to exercise power. Governments now influence communities through the management of large data sets, such as in the allocation of services through predictive policing. They hold exclusive access to data that would help us to understand which policies are working, or how vulnerable populations are affected by the exercise of public policy. Corporations write opaque algorithms to determine who gets insurance at what price. These developments challenge journalism to move well beyond adaptation to social media or the adoption of new technologies for visualization. They implicate journalism’s public purpose. Encouragingly, a new facet of journalistic practice is emerging, adapting technology to reporting in the public interest.
 
@@ -128,12 +128,12 @@ This is an important reason why we must teach journalists to work with data: The
 This is where journalism education may play a leadership role. Integrating computation, data science and other emerging technologies into public-spirited reporting is an ideal mission for journalism. These schools can access the full resources of a university. The mission also relieves journalism educators of the risk of teaching perishable digital skills, and perishable platforms. Data journalism curricula respond to objective change in the sheer amount of information that is stored digitally today – information that requires computation to access and interrogate. Teaching journalists to be literate about these changes and some to be specialists requires committing ourselves to using data, computation, and emerging technologies as essential tools of our profession.
 
 Steve Coll
-
 Dean & Henry R. Luce Professor
-
 Columbia Journalism School
 
-Executive Summary
+
+
+## Executive Summary
 
 Over the past century, journalism schools have developed solid foundations for teaching shoe-leather reporting techniques. Hundreds of universities teach how to interview, how to develop sources, how to cover a beat, and how to write a breaking news story, a feature, a sports dispatch, or an investigative piece.
 
@@ -168,7 +168,8 @@ Following our findings, this report outlines several model curricula and general
 
 Our objective is not to replace or diminish shoe-leather reporting in journalism instruction, but to augment it with data-driven and computational techniques. This report is meant to describe the state of data journalism education, to underline the urgency of incorporating these skills to equip the next generation of reporters, and to offer guidelines for moving journalism schools in this direction.
 
-Introduction
+
+## Introduction
 
 Journalism schools have a long history of avoiding the call for instruction in quantitative skills. A little over a century ago, when the idea of teaching journalism at the college level was practically unthinkable, Joseph Pulitzer wrote an essay arguing for the potential and civic importance of journalism education—all as a response to several schools refusing the money he had hoped to donate in order to establish such a school. In this 1904 essay in the North American Review, Pulitzer outlined the skills he thought journalists would need in order to serve this lofty civic role. It was an ambitious list, highlighting law and ethics, history and literature, truth and accuracy, as well as a range of mathematical and scientific disciplines. Among these, Pulitzer specifically insisted on educating journalists in statistics.
 
@@ -210,7 +211,9 @@ Data journalism “also can be a bridge to other parts of the university,” sai
 
 The authors and a committee of professors and professional data journalists agree that if journalists and journalism educators want to innovate, then equipping our students with practical data skills and, more importantly, a data frame of mind, is a vital part of the path forward for the students, faculty, and administrators.
 
-Chapter 1: Defining the Field of Study
+
+
+## Chapter 1: Defining the Field of Study
 
 What’s in a Name
 
@@ -576,7 +579,9 @@ Eight of the courses required The Data Journalism Handbook, which was produced a
 
 In 17 classes, no text was required. The lesson here may be that online reading works best for these classes. But it also could mean that despite its long history, data journalism is still a nascent subject within journalism schools and there may be a dearth of effective textbooks beyond the few that are commonly assigned.
 
-Chapter 3: Qualitative Findings: Interviews and Observations
+
+
+## Chapter 3: Qualitative Findings: Interviews and Observations
 
 Identifying What to Teach
 
@@ -684,7 +689,8 @@ Several students suggested that schools should offer a track that could include 
 
 One of the authors of this report co-taught a spring 2015 watchdog reporting class with an engineering professor. Five computer science students embedded into project teams of journalism students. The journalism students learned new data skills, and the computer science students learned techniques in reporting and writing. The class offered challenges, too. Next time around, there may be a more defined way for the journalism students to take on data challenges of their own and continued emphasis on having the computer science students learn skills such as interviewing.
 
-Chapter 4: Model Curricula IN Data and Computation
+
+## Chapter 4: Model Curricula In Data and Computation
 
 Introduction and Summary of Curricular Recommendations
 
@@ -1181,7 +1187,9 @@ Most electrical prototyping starts with a solderless breadboard, a flat plastic 
 
 Beyond the small computers used for prototyping, more substantial computers should be on hand for projects that call for it. If possible, an emerging technologies lab should have machines that allow students to gain firsthand experience working with news-bound technology such as immersive 3D cameras, VR headsets, and drones instead of relying on secondhand accounts. These skills and literacies fit into a larger constellation of technical concerns that may give rise to media innovation along unforeseen paths.
 
-Chapter 5: Institutional Recommendations
+
+
+## Chapter 5: Institutional Recommendations
 
 Steps Toward Bringing Data and Computation into Your Journalism School
 
@@ -1236,6 +1244,54 @@ Journalism schools should build collaborative partnerships with other discipline
 Note on Specialist Faculty in Data and Computation
 
 An integrated data journalism curriculum presents a unique challenge. In the state of the field as it has developed and exists today, data journalism is usually a lone course, or element of a course, taught by one specialist instructor. Often, the instructor is a professional journalist working as an adjunct more for the love of spreading the word than for the money. To achieve a fully integrated curriculum, the overall faculty at journalism programs would need to commit to change, and administrations would need to foster training for faculty. The change needs to be broad. There should not be a single faculty member juggling all the classes in data and computational skills, nor should guest lectures from that faculty member suffice in broadening the class to account for data. Journalism schools must commit to the idea that they cannot train information professionals to work in an increasingly complicated world of information without developing these crucial literacies. It must be integrated across the board.
+
+
+## Appendix
+
+Tables from our analysis
+
+Classes Offered by Subject at ACEJMC-Accredited Journalism Programs
+
+Data Journalism
+
+| Number of Classes | Number of Programs | Percent of Total |
+| --- | --- | --- |
+| No class | 54 | 48% |
+| One class | 27 | 24% |
+| Two classes | 14 | 12% |
+| Three or more classes | 18 | 16% |
+
+Classes with data journalism as component
+
+| Number of Classes | Number of Programs | Percent of Total |
+| --- | --- | --- |
+| No Classes | 44 | 38% |
+| One Class | 31 | 27% |
+| Two Classes | 22 | 19% |
+| Three Classes | 9 | 8% |
+| Four or More Classes | 7 | 6% |
+
+Multimedia
+
+| Number of Classes | Number of Programs | Percent of total |
+| --- | --- | --- |
+| No classes | 20 | 18% |
+| One class | 31 | 27% |
+| Two classes | 12 | 11% |
+| Three classes | 16 | 14% |
+| Four or more classes | 34 | 30% |
+
+Programming beyond html/css
+
+| Number of Classes | Number of Programs | Percent of Total |
+| --- | --- | --- |
+| No Classes | 99 | 88% |
+| One Class | 6 | 5% |
+| Two Classes | 5 | 4% |
+| Three or More Classes | 3 | 3% |
+
+Note: This analysis of programming classes is focused on those courses taught within a journalism program. It should be noted that a fair number of schools pointed to collaborations with other departments where journalism students were able to take advanced programming or computer science classes.
+
 
 Notable Stories
 
@@ -1439,7 +1495,8 @@ focus: Applying your skillset
 
 topics & tools include: Tableau, web scraping, mapping, CartoDB, GIS/QGIS, data cleaning, documentation, and more
 
-Works Cited
+
+## Works Cited
 
 Cohen, Sarah, Chengkai Li, Jun Yang, and Cong Yu. 2011\. “Computational Journalism: A Call to Arms to Database Researchers.” In Proceedings of the 5th Biennial Conference on Innovative Data Systems Research, Sailorman. Asilomar, CA: ACM.
 
@@ -1471,7 +1528,8 @@ UNESCO. 2007\. Model Curricula for Journalism Education. http://unesdoc.unesco.o
 
 Zelizer, Barbie. 1995\. “Words Against Images: Positioning Newswork in the Age of Photography.” In Newsworkers: Toward a History of the Rank and File, edited by Bonnie Brennen and Hanno Hardt. Minneapolis: University of Minnesota Press: 135–59.
 
-Acknowledgments
+
+## Acknowledgments
 
 We could not have done this without the assistance of Maxwell Foxman and Joscelyn Jurich, two Ph.D. students at Columbia. Max and Joscelyn traveled far and wide, scoured the Web, and checked innumerable facts in order for this report to even come close to depicting the state of data journalism education. Their thoughtful memos, perceptive comments—and yes, meticulous spreadsheets—were vital contributions to this research.
 
@@ -1505,48 +1563,3 @@ Foundational classes included spreadsheets, basic relational database understand
 
 ![](030516_Data_Journalism_Final_Page_69_files/Syllabi_Analysis.png)
 
-Appendix
-
-Tables from our analysis
-
-Classes Offered by Subject at ACEJMC-Accredited Journalism Programs
-
-Data Journalism
-
-| Number of Classes | Number of Programs | Percent of Total |
-| --- | --- | --- |
-| No class | 54 | 48% |
-| One class | 27 | 24% |
-| Two classes | 14 | 12% |
-| Three or more classes | 18 | 16% |
-
-Classes with data journalism as component
-
-| Number of Classes | Number of Programs | Percent of Total |
-| --- | --- | --- |
-| No Classes | 44 | 38% |
-| One Class | 31 | 27% |
-| Two Classes | 22 | 19% |
-| Three Classes | 9 | 8% |
-| Four or More Classes | 7 | 6% |
-
-Multimedia
-
-| Number of Classes | Number of Programs | Percent of total |
-| --- | --- | --- |
-| No classes | 20 | 18% |
-| One class | 31 | 27% |
-| Two classes | 12 | 11% |
-| Three classes | 16 | 14% |
-| Four or more classes | 34 | 30% |
-
-Programming beyond html/css
-
-| Number of Classes | Number of Programs | Percent of Total |
-| --- | --- | --- |
-| No Classes | 99 | 88% |
-| One Class | 6 | 5% |
-| Two Classes | 5 | 4% |
-| Three or More Classes | 3 | 3% |
-
-Note: This analysis of programming classes is focused on those courses taught within a journalism program. It should be noted that a fair number of schools pointed to collaborations with other departments where journalism students were able to take advanced programming or computer science classes.
