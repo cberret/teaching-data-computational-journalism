@@ -1,7 +1,7 @@
 # Chapter 2: State of the Field: Our Quantitative Data
 
 
-The Scope of Our Study
+## The Scope of Our Study
 
 For this report, we collected and analyzed information on 113 journalism schools, roughly one-quarter of the nation’s journalism programs, and gathered 63 syllabi for courses on topics spanning data-driven journalism, computational journalism, data visualization, and other methods. We combined that with a series of in-depth interviews with more than 50 professors and professional journalists (many of whom are adjuncts), and we spoke with ten students or recent graduates. We also attended nine classes and participated in three massive open online courses (MOOCs).
 
@@ -13,7 +13,7 @@ We scraped what we could from the journalism program websites and hand-entered t
 
 We also collected information on multimedia offerings of each program so that we could compare multimedia course offerings with data journalism course offerings.
 
-Our Findings
+## Our Findings
 
 A little more than half of the universities we reviewed—59 of the 113 schools—offer one or more data journalism courses. We defined a data journalism class as being focused on the intersection of data and journalism, and using spreadsheets, statistical software, relational databases, or programming toward that end. We included in the data journalism category only those programming classes that went beyond basic HTML and CSS. For the purposes of this report, we considered classes on HTML, CSS, and JavaScript to be focused on digital/design journalism, not data journalism. We also excluded courses in numeracy and communications research methodologies and statistics unless the course offerings explicitly included a journalism focus. The appendix includes tables detailing the full results of our analysis.
 
@@ -27,7 +27,7 @@ A significant number of programs offer some instruction in data journalism, even
 
 Again, tables summarizing these findings can be found in the appendix, while the remainder of this chapter will dig deeper into our analysis of syllabi and course offerings in data journalism.
 
-Teaching Data Fundamentals: Rows and Columns
+## Teaching Data Fundamentals: Rows and Columns
 
 Data journalism professors say that the foundational data class is the most important because it lays down key mindsets and skills that are a prerequisite for more advanced learning. Steve Doig of ASU believes the core data syllabus should consist of negotiating for data, thinking critically about data, and using spreadsheets to analyze data.
 
@@ -39,24 +39,22 @@ Most of the classes include some type of hands-on learning. Many of them focus f
 
 Another key feature of the 63 syllabi we reviewed was an exercise in requesting and negotiating for data from a governmental body. Dan Keating, who works at the Washington Post and teaches a long-standing class in computer-assisted reporting at the University of Maryland, said that finding what “no one has ever known before” is a defining part of his class.
 
-Many CAR courses break down this way:
+#### Many CAR courses break down this way:
 
-Hard Skills
-
+#### Hard Skills
 *   Searching for and finding documents and data that enable the journalist to make statements of fact, including public requests, deep research, and scraping skills
 *   Understanding data structures and how to clean and standardize data into a form that is useful
 *   Analyzing data using spreadsheets, databases, mapping, and visualization
 *   Learning advanced statistical methods that illuminate data
 
-Guiding concepts
-
+#### Guiding concepts
 *   Finding what “no one has known before”
 *   Developing data-driven storytelling techniques, including how to use numbers effectively in prose and how to tell a story visually
 *   Thinking of data as an asset in the reporting process
 
 Whether following the guiding concepts or applying the hard skills, journalism students today must be well grounded in both the importance of data and the tools to use data in storytelling. “If you don’t deal with data as a journalist, you’re shutting yourself down,” said McGinty of the Wall Street Journal.
 
-Teaching Advanced Data Skills: Visualization and Programming
+## Teaching Advanced Data Skills: Visualization and Programming
 
 Advanced instruction in data journalism today is limited. Only 14 of the 113 AEJMC-accredited programs surveyed for this study teach programming beyond HTML/CSS to journalism students. And only 11 of the 113 offer coursework in emerging areas of data journalism, such as drones, virtual reality, and computational methods.
 
@@ -84,7 +82,7 @@ Maggie Mulvihill, a clinical professor of journalism at Boston University, is ra
 
 Integrating data journalism exposes students to the field, highlighting this as an area that they might choose to practice, but it is also an important step for students developing a foundation of journalistic skills. As noted, 69 of the 113 AEJMC-accredited programs already integrate some data journalism into reporting and writing courses, and on this front there is some good news: several schools expressed interest in adding data journalism in a systematic way to their programs. When, in order to verify or data, we contacted each of the programs that had listed either no data journalism class or just one, 11 responded that they are actively working to add data journalism to their curricula. At the University of Alabama in Tuscaloosa, for example, the school does not offer a standalone CAR class, but it now includes components of data analysis instruction in three separate journalism classes.
 
-Alternative Data Journalism Instruction: The State of Online Courses
+## Alternative Data Journalism Instruction: The State of Online Courses
 
 One response to the widespread lack of instruction in data journalism, and instructors capable of teaching it, has been to enlist respected teachers for massive open online courses, or MOOCs. Doig is one of those teachers, and he suggests MOOCs offer great benefit for certain classes, providing expert instruction and hands-on training.
 
@@ -100,7 +98,7 @@ In order for MOOCs to be viable resources, they must be maintained. Many classes
 
 Our participant’s experience pointed to the issues raised by Doig, but the ASU professor does think MOOCs could still be an optional resource for a data journalism course. “Students eager to go beyond what is offered in the classroom (alas, almost certainly a minority) can be pointed to online sources that will give them that content,” Doig wrote. “To that end, it might be a good idea to develop a list of MOOCs and such that journalism instructors could sample and offer to their students.”
 
-Textbooks: Little Consensus
+## Textbooks: Little Consensus
 
 Our analysis also found one more gap in curricula—a strong core of textbooks. The concepts and skills of this field were described in fairly consistent ways throughout our interviews and the text of the syllabi, but data journalism instructors share only a few core books in common. In fact, most didn’t use a textbook at all but provided a list of selected readings.
 

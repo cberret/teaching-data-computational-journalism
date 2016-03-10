@@ -8,8 +8,5 @@ This is an important reason why we must teach journalists to work with data: The
 This is where journalism education may play a leadership role. Integrating computation, data science and other emerging technologies into public-spirited reporting is an ideal mission for journalism. These schools can access the full resources of a university. The mission also relieves journalism educators of the risk of teaching perishable digital skills, and perishable platforms. Data journalism curricula respond to objective change in the sheer amount of information that is stored digitally today – information that requires computation to access and interrogate. Teaching journalists to be literate about these changes and some to be specialists requires committing ourselves to using data, computation, and emerging technologies as essential tools of our profession.
 
 Steve Coll
-
 Dean & Henry R. Luce Professor
-
 Columbia Journalism School
-

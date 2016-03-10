@@ -1,6 +1,6 @@
 # Chapter 1: Defining the Field of Study
 
-What’s in a Name
+## What’s in a Name
 
 In our view, data journalism as a field encompasses a suite of practices for collecting, analyzing, visualizing, and publishing data for journalistic purposes. This definition may well be debated. The history of data journalism is full of arguments about what it should be called and what it includes.
 
@@ -18,22 +18,22 @@ At the same time, each generation of data journalists has informed the next and 
 
 Our study aims to provide a broad evaluation of many areas of journalistic practice involving data and to identify best practices for teaching these skills and the “data frame of mind” that goes with them. In doing so we looked at multiple forms of data journalism and defined them as best we could to ensure clear communication.
 
-Four Key Areas of Data journalism
+## Four Key Areas of Data journalism
 
 For this report, we will divide data journalism into four categories, acknowledging that overlap is inevitable in practice. Examples of journalism that fall under each of these headings can be found in the appendix.
 
-Data Reporting
+### Data Reporting
 
 definition: Obtaining, cleaning, and analyzing data for use in telling journalistic stories.
 
-includes:
+#### Includes:
 
 *   Deploying computer-assisted reporting or analysis for writing journalistic stories
 *   Practicing precision journalism, as introduced by Philip Meyer, including the use of social science research methods in the interest of journalism
 *   Visualizing data—mapping and charting—for use in exploration and analysis
 *   Programming to obtain and analyze data for writing journalistic stories
 
-techniques and technologies:
+#### Techniques and Technologies:
 
 *   Invoking public records law to negotiate for data
 *   Using web scraping tools and techniques (ranges from tools to knowledge of Python programming language)
@@ -41,16 +41,16 @@ techniques and technologies:
 *   Understanding statistical concepts and software or programming languages with statistical packages (SPSS or R among others)
 *   Using mapping and visualization tools and software (Tableau, Esri mapping software, QGIS, Google Fusion)
 
-Data Visualization and Interactives
+### Data Visualization and Interactives
 
 definition: Using code for digital publishing (HTML/CSS/JavaScript/jQuery) as well as programming and database management to build interactive journalistic work. This overlaps with design work, which falls outside of traditional definitions of data journalism. But visualizations and apps also can be integral to the storytelling process.
 
-includes:
+#### Includes:
 
 *   Visualizations developed and designed as interactive charts and graphics for presentation, including the use of code
 *   Interactive applications, including searchable databases and games that help readers explore and understand a news story; these applications can be a key part of the utility of a data journalism project
 
-techniques and technologies:
+#### Techniques and Technologies:
 
 *   The use of code, which is defined as HTML and CSS and also could include JavaScript
 *   The use of visualization software or programs, ranging from Tableau visualizations to the D3 JavaScript Library
@@ -58,44 +58,44 @@ techniques and technologies:
 *   Mapping applications, including QGIS, CartoDB, Esri, TileMill, GeoDjango, and more
 *   Server knowledge and the use of GitHub, versioning, and Agile software development techniques
 
-Emerging Journalistic Technologies
+### Emerging Journalistic Technologies
 
-definition: New developments using data and technology.
+#### Definition: New developments using data and technology.
 
 *   Drone Journalism
 *   Sensor Journalism
 *   Virtual and Augmented Reality Journalism
 
-drone technologies:
+#### Drone Technologies:
 
 “Drone journalism is generally defined as the use of unmanned aerial systems to gather photos, video and data for news. What separates Drone Journalism from drone photography is the application of journalistic ethics and consideration of the public interest when using [drones].” — Matt Waite, a professor of practice at the University of Nebraska and founder of the Drone Journalism Lab
 
 Drone technologies can include an airframe, defined by configuration (such as fixed wing or multirotor); an autopilot of varying capabilities (full automation, minor stability assistance, return-to-home fail-safe functionality); a control system (manual control through radio signals, automated flight through software and Bluetooth wireless connection); and a sensor (camera, video camera, multispectral camera, other physical sensor).
 
-sensor technologies:
+#### Sensor Technologies:
 
 Sensor technologies include a wide range of software and hardware to measure physical conditions like air quality, motion, or noise levels. These can be used to gather data with a small, portable computer or microcontroller. The Raspberry Pi is a low-cost, credit card–sized computer that has a variety of input/output pins for mounting devices like sensors. Similarly, Arduino is an open-source microcontroller platform that is widely used for prototyping with electronic components like sensors. Some universities have already begun teaching sensor journalism with specific project-based classes, such as to test environmental conditions like air and water quality.
 
-virtual and augmented reality technologies:
+#### Virtual and Augmented Reality Technologies:
 
 Virtual reality (VR), long heralded as an emerging digital technology, finally appears poised to enter the broad consumer market. Samsung, Oculus, and Google have developed consumer VR headsets along with controllers to facilitate interactivity using your hands and feet. From a production standpoint, panoramic images and videos may be stitched together from an array of cameras, while the company Jaunt is developing a standalone camera to capture 3D video in 360-degree, immersive format. Yet questions of narrative, audience interaction, and journalistic values have yet to be settled with these technologies, even as the New York Times, Los Angeles Times, and PBS “Frontline” have launched exploratory ventures to use VR. Journalism schools need to not only provide exposure and instruction in this emerging technology, but also to inquire into values and best practices.
 
-Computational Journalism
+### Computational Journalism
 
 definition: The use of algorithms, machine learning, and other new methods to accomplish journalistic goals. This area overlaps with data reporting and emerging technologies.
 
-includes:
+#### Includes:
 
 *   Algorithms that help journalists mine unstructured data in new ways
 *   New digital platforms to better manage documents and data
 
-technologies:
+#### Technologies:
 
 *   Programming languages like Python, Ruby, and R
 *   Frameworks and applications like Jupyter that enable journalists to mix code and prose as they perform analysis and show the steps in their work
 *   Platforms like Overview that facilitate the use of complicated computational processes like natural language processing and topic modeling
 
-A Brief History of Computers and Journalists
+## A Brief History of Computers and Journalists
 
 In 1967, Philip Meyer had just returned to Knight Ridder’s Washington Bureau from a Nieman Fellowship at Harvard University, where he had delved into a different area of computational methods: social science. Social science methodologies, including statistical tests and surveys, had recently been used by academics to detail the reasons behind the 1965 Watts riots in Los Angeles. Meyer believed similar methodologies could have great impact in journalism. He wasn’t back at work for long when he was able to put that belief into practice.
 
@@ -177,13 +177,7 @@ Still, a gap has persisted. At times, new organizations formed to fill some of t
 
 In 2013, a group of journalists used Kickstarter to raise $34,000 and create ForJournalism.com, a teaching platform to provide tutorials on spreadsheets, scraping, building apps, and visualizations. Founder Dave Stanton said the group wanted to focus on teaching programmatic journalism concepts and skills and offer subjects that weren’t being taught. “You didn’t really even have these online code school things,” he said. “There were a few. The problem was there was no context for journalism.”
 
-A Path to Diversity in Data Journalism
-
-Journalism training organizations and the journalists in NICAR have grappled with the challenges found in tech elsewhere of low minority and female participation in the industry. Most of the practitioners of data journalism were, and are, white men. IRE has worked with minority journalism organizations to provide training in data journalism. The conference planners also worked to include diversity on its panels and in its training sessions.
-
-In the mid-1990s, women at the NICAR conferences began a tradition of heading out to dinner together. In 2000, at the Lexington conference, fewer than a dozen women attended. Over time, the number of women grew so large that the dinner couldn’t be held because finding a restaurant was difficult. Then in 2011, in St. Louis, the dinner was reprised by three of the original members. In 2015, the dinner drew 100 women. It likely would have drawn more but was capped for space limitations. The event goes a long way toward emphasizing that women are welcomed and celebrated at this intersection of technology and journalism.
-
-The Task at Hand: Causes for Concern and Reasons for Hope
+## The Task at Hand: Causes for Concern and Reasons for Hope
 
 With data coursework lacking in so many schools, the strongest presence of data journalism in most of academia has been the study of changing newsrooms by sociologists and communication scholars. Their work aims to document and explain data practices within ongoing scholarly conversations about media, technology, information, and society.
 

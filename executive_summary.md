@@ -14,16 +14,14 @@ But first, a definition. When we say “data journalism,” we mean using data f
 
 We interviewed more than 50 journalists, educators, and students, and we evaluated more than 100 journalism programs across the nation. This report features a chapter detailing quantitative findings, such as the number of U.S. journalism programs offering classes in data, computation, and related tech skills. We also include a chapter of qualitative findings in which our interviews and classroom observations offer some color and texture to this picture of the present state of data journalism education and its potential.
 
-Among our findings:
-
+### Among our findings:
 *   Many journalism programs offer few courses in data journalism, and nearly half offer no classes at all.
 *   The classes offered are largely introductory, and the need is still largely for the basics, such as knowing how to use a spreadsheet, understand descriptive statistics, negotiate for data, and clean a messy data set and then “interview” it to find a story.
 *   The field offers a few foundational textbooks, but beyond that lacks a broad and strong core of literature to help teach both the history and practice of data journalism.
 *   Many journalism programs do not have a faculty member skilled in data journalism. Hiring professional journalists as adjuncts may pose many challenges, one of which is that job openings outnumber qualified applicants.
 *   Graduates with data journalism skills are better equipped to succeed, our interviews show. Faced with a decision to hire an entry-level reporter with no data skills or one who knows how to use a spreadsheet or query a database, the data skills provide a key edge.
 
-Among our recommendations:
-
+### Among our recommendations:
 *   Journalism schools can collaborate across the university to meet the burgeoning need for instruction in data and computation but should be wary of trying to outsource too much—while understanding how to do math, statistics, or computer programming is an important component, data journalism is much more than that.
 *   Journalism programs can integrate alternative teaching methods to help fill the gaps in their own faculty. Examples include cooperative teaching among different university departments, online courses, and independent tutorial packs.
 *   Journalism programs can choose among several models of instruction, all of which begin with a key component: at least one required class in analyzing data for stories—what historically has been termed computer-assisted reporting (CAR).
@@ -32,4 +30,3 @@ Among our recommendations:
 Following our findings, this report outlines several model curricula and general recommendations. We offer a model for a core, required course in data journalism. Then we suggest ways of introducing data and computation into existing journalism classes such as Ethics and Global Reporting. Next comes a set of full model curricula for degrees and concentrations in data and computational journalism. Finally, we address a range of institutional concerns on matters ranging from finding teachers to providing technological infrastructure.
 
 Our objective is not to replace or diminish shoe-leather reporting in journalism instruction, but to augment it with data-driven and computational techniques. This report is meant to describe the state of data journalism education, to underline the urgency of incorporating these skills to equip the next generation of reporters, and to offer guidelines for moving journalism schools in this direction.
-

@@ -1,7 +1,7 @@
 # Chapter 4: Model Curricula in Data and Computation
 
 
-Introduction and Summary of Curricular Recommendations
+## Introduction and Summary of Curricular Recommendations
 
 The preceding chapters offer a picture of the state of education in data and computational journalism in the United States, as well as an argument for the necessity and even urgency of journalism schools committing to teach these subjects. What follows in this chapter are model curricula and guidelines that we hope will facilitate this transition. We intend these models to be flexible; we hope that this information can be applied across schools despite variation in term length, academic units, and time to degree.
 
@@ -11,7 +11,7 @@ Above all, we recommend that all programs have a required foundational course in
 
 Considering that many journalism programs are designed to cover a dizzying range of material in a short period of time, some of our readers might be wondering where to find room for a required class in data journalism. Schools that have an existing class on basic numeracy for journalists could rework the class to include a greater emphasis on data-driven reporting methods. Another opening might lie in multimedia classes, many of which were introduced only in the past decade. Compared with data journalism, which frames a mindset for gathering and presenting information, multimedia instruction often centers on teaching tools with uncertain shelf lives. It might be time to consider retiring the audio slideshow from required coursework to make room for data skills.
 
-Model 1\. Integrating Data as a Core Class: Foundations of Data Journalism
+## Model 1. Integrating Data as a Core Class: Foundations of Data Journalism
 
 This is a model for a required introductory course at the graduate or undergraduate level. What follows is a narrative account of how such a class may proceed in developing data literacy among beginning journalists. We realize that this course may need to fit the unique contours of different journalism programs, some of which contain boot camps and other introductory programs with idiosyncratic durations and varying levels of intensity and focus on different skills. The point is for this course to be given equal footing with other skills or subject matters that are currently treated as essential in a journalism education.
 
@@ -41,7 +41,7 @@ topics: Data sources, importing data, negotiating for data, checking the veracit
 
 course structure:Mix of hands-on practice and lectures, primarily using spreadsheet tools and perhaps relational database software; some limited exposure to data visualization for story exploration.
 
-example assignments
+### Example Assignments
 
 *   homework: Bring a piece of data journalism to critique in class.
 *   homework: Find a data set and explain why it’s interesting and what it might reveal.
@@ -49,15 +49,7 @@ example assignments
 *   spreadsheet assignment: Analyze a government’s payroll, including overtime, or examine a city or county budget. This could be a bridge inspection data set, a city budget, or city payroll.
 *   final: Produce a data story in three assignments: pitch, draft, final submission.
 
-Classroom Support
-
-Since many students will enter college with little or no prior training in data and computation—and worse still, a bevy of uncertainties about their abilities—we recommend a range of support resources including open lab sessions, teaching assistants, and online resources to review tools and methods.
-
-Open lab sessions give students extra assistance. Matt Waite runs “maker hours” that are well attended by his students at Nebraska. At Northwestern’s Knight Lab, students have weekly open hours in which to build and discuss new digital tools.
-
-In our interviews, observations, and personal experience, a teaching assistant (TA) is a considerable asset to classes in data and computation. TAs can offer in-class help when students encounter minor bumps. Here’s a common scenario: a student forgets to type a single character while learning a programming language and cannot understand the error message or parse what’s missing from that line. Confronted with that situation, many students may not want to interrupt the instructor and as a result could be left behind. The TA can quickly assist with a problem like that. TAs also can be on hand during open lab sessions so that multiple students can get help at once instead of waiting for the instructor.
-
-Model 2.Integrating Data and Computation into Existing Courses and Concentrations: General Guidelines for the Undergraduate and Graduate Levels
+## Model 2. Integrating Data and Computation into Existing Courses and Concentrations: General Guidelines for the Undergraduate and Graduate Levels
 
 The basic principles of data journalism should be as familiar to students as writing a lede, shooting b-roll, or tweeting updates to a developing story. To integrate data skills into journalism instruction means introducing these concerns across the curriculum.
 
@@ -73,21 +65,21 @@ At the undergraduate level, this should apply to students pursuing either a majo
 
 Schools may also consider working more coursework in data and computation for other programs and concentrations. Students focused on investigative reporting, for instance, would benefit from additional coursework on finding stories in data, perhaps even as an additional requirement.
 
-Introductory and Required Journalism Classes Integrating Data and Computation
+## Introductory and Required Journalism Classes Integrating Data and Computation
 
-Basic Graphics, Video, and Multimedia
+### Basic Graphics, Video, and Multimedia
 
 how and why to integrate data: Different schools may teach a variety of visual tools under the heading of graphic, video, multimedia, or digital media. There are productive ways for data and computation to be integrated into these lessons, however the classes are structured. Data visualization would dovetail with instruction in other graphical storytelling methods such as design and video, for instance, while a general familiarity with news apps could be developed in multimedia classes.
 
-skills to integrate: Simple tools for building charts, maps, and timelines. Include building maps and basic data charts, visualizations and timelines, plus an overview on news apps.
+Skills to integrate: Simple tools for building charts, maps, and timelines. Include building maps and basic data charts, visualizations and timelines, plus an overview on news apps.
 
-possible assignments:
+Possible Assignments:
 
 *   Use simple tools (Google Fusion, CartoDB, or Esri’s Story Maps) to locate the availability of a public service across a geographic area.
 *   Use simple online charting tools to illustrate changes in the annual budgets of several government offices.
 *   Include data visualization within a video to provide context and enhance the story.
 
-Media Law and Ethics
+### Media Law and Ethics
 
 how and why to integrate data: Legal considerations form one of the core concerns of data journalists: making public records requests can be one of the most fruitful avenues for reporting, but also one of the most frustrating. Journalism students should learn the relevant public records laws at the state and federal levels.
 
@@ -95,114 +87,105 @@ They should also address the common misconception that data is sterile, objectiv
 
 Courses should include material on the verification of photos (through metadata or crowdsourcing) and ethical considerations surrounding leaked or sensitive data, as well as source protection and digital security in conditions of pervasive surveillance.
 
-skills to integrate: Becoming familiar with a range of ethical questions surrounding the use of data. Scrutinizing data for bias, errors, and incompleteness.
+Skills to integrate: Becoming familiar with a range of ethical questions surrounding the use of data. Scrutinizing data for bias, errors, and incompleteness.
 
-possible assignments:
-
+Possible Assignments:
 *   Prepare a critical response paper on legal and ethical concerns surrounding leaked data. This could take the form of an essay or even a mock editorial responding to a sensitive story.
 *   File a Freedom of Information Act (FOIA) or other public records request, then follow up with needed negotiations. This may be framed as preparation for a project in a subsequent term, if and when the records come through.
 
-History of Journalism
+### History of Journalism
 
 how and why to integrate data: Understanding history is especially valuable during times of apparent change. To observe the field of journalism evolving over the centuries can make journalism students more conscious participants in the process of inventing its future. It may also help to temper the widespread view that journalism is witnessing unprecedented upheaval due to technology. Looking back, we see that institutions come and go, new technologies are often disruptive before settling into routine, and the mission and practice of the profession are perennially under revision. Data and computation are in many ways emblematic of our time, but not exclusive to it. These topics have a long history in journalism. This class needs to tell that story.
 
 Two distinct strands of historical concern should be covered. One is to recount the historical uses of data in the news. For example, a striking and memorable early case of data-driven journalism dates to the antebellum period in the United States, when Harriet Beecher Stowe compiled the accounts of several escaped slaves, aggregated advertisements from Southern newspapers offering rewards for their return, and published several tables of data as a rebuttal to claims that her novel Uncle Tom’s Cabin had exaggerated the reality of slavery. Likewise, one might point to Philip Meyer’s use of data to undermine racial stereotypes in the coverage of the 1967 Detroit riots. These two cases highlight the enduring value of data for asserting truths that might otherwise be denied. More broadly, where these stories place data journalism in historical context, it will not only form a canon to orient students in this area of practice, but it will also reveal that data journalism, for all its glamorous novelty, is rooted in a tradition of quality work.
 
-skills to integrate: Acquiring a sense of how the journalistic profession has developed over time, especially in terms of how journalists have chosen to depict the world to their audiences. Appreciating how data and computational journalism fit into historical context.
+Skills to Integrate: Acquiring a sense of how the journalistic profession has developed over time, especially in terms of how journalists have chosen to depict the world to their audiences. Appreciating how data and computational journalism fit into historical context.
 
-possible assignments:
-
+Possible Assignments:
 *   homework: Find and analyze a chart, graph, map, or other data visualization published in a newspaper at least 50 years ago.
 *   term paper: Consider a contemporary concern surrounding emerging technology, such as algorithmic transparency or the Snowden leaks, in the context of other historical cases.
 
-Advanced Classes and Electives: Integrating Data and Computation
+## Advanced Classes and Electives: Integrating Data and Computation
 
-Investigative Reporting
+### Investigative Reporting
 
 how and why to integrate data: Many of the tools and methods of computational and data-driven journalism were developed through investigative reporting. Fluency with spreadsheets, databases, and other mainstays of computer-assisted reporting will enable students to conduct deep investigations with the full range of resources at their disposal.
 
-skills to integrate: Compiling the backgrounds of people and organizations with the use of data. Turning documents into data. Making public records requests and negotiating for data.
+Skills to integrate: Compiling the backgrounds of people and organizations with the use of data. Turning documents into data. Making public records requests and negotiating for data.
 
-possible assignments:
-
+Possible Assignments:
 *   Tracing shell company ownership through public records.
 *   Examining medical device reports for problems in devices sold by specific companies.
 
-Narrative Reporting and Feature Writing
+### Narrative Reporting and Feature Writing
 
-how and why to integrate data: Great feature writing is built on facts and compelling narratives. This course should incorporate some data-driven and computer-assisted reporting methods, teaching students to frame, explain, and give context to data that will help to tell their story. This class should highlight that words and numbers are both sources of data. The instructor may consider inviting a guest lecture from a professor in the digital humanities to highlight novel approaches developed in this field for understanding literature and the arts through a computational lens.
+How and why to integrate data: Great feature writing is built on facts and compelling narratives. This course should incorporate some data-driven and computer-assisted reporting methods, teaching students to frame, explain, and give context to data that will help to tell their story. This class should highlight that words and numbers are both sources of data. The instructor may consider inviting a guest lecture from a professor in the digital humanities to highlight novel approaches developed in this field for understanding literature and the arts through a computational lens.
 
-skills to integrate: General grasp of using numbers to support a narrative. Using spreadsheets to organize chronologies of the main characters in the course of reporting. Using large-scale textual analysis tools to organize, index, and annotate documents.
+Skills to integrate: General grasp of using numbers to support a narrative. Using spreadsheets to organize chronologies of the main characters in the course of reporting. Using large-scale textual analysis tools to organize, index, and annotate documents.
 
-possible assignments:
-
+Possible Assignments:
 *   Use Overview or Document Cloud to explore a large cache of documents, such as the Congressional Record, Wikipedia, or a recent leak.
 *   Organize reporting for a long-form narrative piece by placing sources, quotes, and chronologies in a spreadsheet.
 *   Analyze tax return (IRS Form 990) data on arts nonprofits to evaluate their finances.
 
-Social Media Skills
+### Social Media Skills
 
-how and why to integrate data: The use of social media by contemporary news organizations goes hand in hand with the use of analytics to drive traffic. If students are taught to run social media feeds, they also should be taught to understand the analytics for these platforms. Moreover, the ability to mine the social web to interpret social trends and public opinion will be an asset in reporting.
+How and why to integrate data: The use of social media by contemporary news organizations goes hand in hand with the use of analytics to drive traffic. If students are taught to run social media feeds, they also should be taught to understand the analytics for these platforms. Moreover, the ability to mine the social web to interpret social trends and public opinion will be an asset in reporting.
 
-skills to integrate: Gathering and interpreting web analytics. Scraping or otherwise aggregating social media content for analysis use in a story.
+Skills to integrate: Gathering and interpreting web analytics. Scraping or otherwise aggregating social media content for analysis use in a story.
 
-possible assignments:
-
+Possible Assignments:
 *   Use Twitter analytics to determine the rate of growth in followers, retweeting activity, or the most popular stories, sections, writers, and days of the week.
 *   Use Google analytics to aggregate several streams of traffic data and generate more complicated (second-order) insights.
 *   Use Google Trends to do a story on patterns in search data.
 *   Analyze social media data to produce chart of attention around a recent news event.
 *   (Advanced) Use scraped Twitter data to tell a story (perhaps through sentiment analysis).
 
-Business and Economic Reporting
+### Business and Economic Reporting
 
-how and why to integrate data: The ability to gather, analyze, and critique financial data is an essential component of business reporting. Many classes already include some instruction on reading and interpreting data. As more of this data has become generally available, while some of it has become more complicated and difficult to interpret, business reporting classes will need to adapt and offer more advanced instruction.
+How and why to integrate data: The ability to gather, analyze, and critique financial data is an essential component of business reporting. Many classes already include some instruction on reading and interpreting data. As more of this data has become generally available, while some of it has become more complicated and difficult to interpret, business reporting classes will need to adapt and offer more advanced instruction.
 
-skills to integrate: The ability to gather and analyze data from a variety of sources, including Bloomberg terminals and APIs (application programming interfaces) for financial information. Advanced spreadsheet analysis and financial/budget analysis training.
+Skills to integrate: The ability to gather and analyze data from a variety of sources, including Bloomberg terminals and APIs (application programming interfaces) for financial information. Advanced spreadsheet analysis and financial/budget analysis training.
 
-possible assignments:
-
+Possible assignments:
 *   Spreadsheet assignment: find a story in a company’s public financial statements.
 *   Build a personal dashboard of APIs to track financial information for a story.
 *   Analyze whether you can predict earnings or stock price through a factor like CEO salary.
 
-Digital Design and Visual Communication
+### Digital Design and Visual Communication
 
-how and why to integrate data: Digital design courses in journalism schools serve to introduce students to layout design, editorial graphics, and the principles of visual critique. In order to integrate data and computation, such a course should include material on data visualization and at least an introduction to the idea of news apps and web development.
+How and why to integrate data: Digital design courses in journalism schools serve to introduce students to layout design, editorial graphics, and the principles of visual critique. In order to integrate data and computation, such a course should include material on data visualization and at least an introduction to the idea of news apps and web development.
 
-skills to integrate: Basic charts, graphs, and maps. A visual critique to know which styles of visualization are good for which kinds of data and to pinpoint cases in which visual forms can conceal or distort the data.
+Skills to integrate: Basic charts, graphs, and maps. A visual critique to know which styles of visualization are good for which kinds of data and to pinpoint cases in which visual forms can conceal or distort the data.
 
-possible assignments:
-
+Possible Assignments:
 *   Find a data visualization you like, then dissect, explain, analyze, and critique it.
 *   Find some data, identify what’s interesting about it, and visualize your findings.
 *   Mock up (design, don’t program) a news app.
 
-Global and International Reporting
+### Global and International Reporting
 
-how and why to integrate data: When journalists cover other countries, numbers will often help both them and their audience to picture these unfamiliar and often complicated matters with greater clarity. A global reporting class should teach students to find, assess, and accurately convey facts and figures about foreign countries and subjects with an international scope. On a deeper level, such a class should teach students to find stories by gathering and scrutinizing data from global sources.
+How and why to integrate data: When journalists cover other countries, numbers will often help both them and their audience to picture these unfamiliar and often complicated matters with greater clarity. A global reporting class should teach students to find, assess, and accurately convey facts and figures about foreign countries and subjects with an international scope. On a deeper level, such a class should teach students to find stories by gathering and scrutinizing data from global sources.
 
-skills to integrate: How to gather, evaluate, and use data from multiple international sources. How to evaluate what data can communicate about international development patterns. How to use data to complete an investigative project focused on an international issue.
+Skills to integrate: How to gather, evaluate, and use data from multiple international sources. How to evaluate what data can communicate about international development patterns. How to use data to complete an investigative project focused on an international issue.
 
-possible assignments:
-
+Possible assignments:
 *   Use a data set from a large international organization such as the UN to find a story, then learn how the organization gathered its data and discuss the limitations and biases that may result.
 *   Find data that deepens your understanding of an international story in the news, complicates the prevailing narrative, or reveals another side of it.
 
-Science and Environmental Reporting
+### Science and Environmental Reporting
 
-how and why to integrate data: Data is a crucial component of scientific topics in the news. The ability to interpret research papers and scrutinize experimental methods will make students far better reporters on these subjects. Students should emerge from this class with an understanding of the scientific method, randomized controlled experiments, statistical significance, and other factors that they will encounter while reporting on topics in science and the environment. If possible, they should also have the opportunity to use their own data sources, such as sensors for air or water quality.
+How and why to integrate data: Data is a crucial component of scientific topics in the news. The ability to interpret research papers and scrutinize experimental methods will make students far better reporters on these subjects. Students should emerge from this class with an understanding of the scientific method, randomized controlled experiments, statistical significance, and other factors that they will encounter while reporting on topics in science and the environment. If possible, they should also have the opportunity to use their own data sources, such as sensors for air or water quality.
 
-skills to integrate: How to gather, evaluate, and use data on specialized scientific topics, and to critically assess published research.
+Skills to integrate: How to gather, evaluate, and use data on specialized scientific topics, and to critically assess published research.
 
-possible assignments:
-
+Possible Assignments:
 *   Reading and analyzing data stories covering these topics and reverse engineering how the reporters told this story.
 *   Drafting data analysis of key data sets and story pitch memos.
 *   Reading a research paper, evaluating the evidence (including the statistical arguments used), and summarizing in plain language for a non-technical reader.
 *   Setting up a sensor network to test air quality across campus (class project).
 
-Model 3\. Concentration in Data & Computation
+## Model 3. Concentration in Data & Computation
 
 A data journalism concentration should begin with several core, required classes before moving into a track of electives offering data journalism analysis, visualization, and online research/backgrounding.
 
@@ -212,28 +195,27 @@ This section describes some of the courses that may form such a degree. Dependin
 
 Please note that we would not expect any journalism school to offer all of these classes, nor only these, in its data and computational curriculum. This is just one picture of the skills and thematic exposure that could constitute a journalism degree specializing in data and computation.
 
-Core Classes Required for Concentration in Data & Computation
+### Core Classes Required for Concentration in Data & Computation
 
-Foundations of Data Journalism
+### Foundations of Data Journalism
 
 This is the course outlined in the opening of this chapter (see full description on page 50) as a requirement for all journalism students. If students enter journalism school without declared concentrations, this introduction will be suitable for future data concentrators to learn the basics before proceeding to other required courses and electives. Schools may also choose to require applicants to be specifically accepted into the data concentration, in which case it may be advisable to offer a summer boot camp (see “Note on Incoming Skills, Technical Literacies, and Specialized Boot Camps,” page 74) to get students up to speed on the tools and methods they will need. In this case, data concentrators may be placed in a more advanced fall foundations course with their peers.
 
-Introduction to Journalistic Programming
+### Introduction to Journalistic Programming
 
-course description: The purpose of this course is to introduce students to several foundational computer-programming skills that they will use to find and tell stories. This should be a requirement of those who concentrate in data and computation, but also open to students from other tracks.
+Course description: The purpose of this course is to introduce students to several foundational computer-programming skills that they will use to find and tell stories. This should be a requirement of those who concentrate in data and computation, but also open to students from other tracks.
 
-course structure: Meets twice weekly, first for lecture and then for an intensive workshop.
+Course structure: Meets twice weekly, first for lecture and then for an intensive workshop.
 
-skills: The Unix command line; basic Python programming for scraping, parsing, connecting to APIs; introduction to JavaScript for web work.
+Skills: The Unix command line; basic Python programming for scraping, parsing, connecting to APIs; introduction to JavaScript for web work.
 
-tools: Bash utilities, Jupyter/IPython Notebook, Pandas, Matplotlib, JavaScript.
+Tools: Bash utilities, Jupyter/IPython Notebook, Pandas, Matplotlib, JavaScript.
 
-example assignments:
-
+Example assignments:
 *   Test proficiency with the command line with a quiz, or even a screencast demonstrating completion of a series of tasks using Bash alone.
 *   Story assignment reported and submitted in Jupyter/IPython notebook.
 
-Statistics for Journalism
+### Statistics for Journalism
 
 course description: The methods and principles of statistics have proven to be powerful tools in the hands of journalists. This course should be a rigorous introduction to stats work taught from within a framework of journalistic concerns. That means the course is story-based, in the sense of precision journalism and the CAR tradition.
 
@@ -250,33 +232,33 @@ example assignments:
 *   Analyze statistical evidence for U.S. and international cases to predict whether reducing the number of guns would have an effect on gun violence.
 *   Analyze the stats in a research paper and report them in plain language.
 
-Distribution of Electives
+### Distribution of Electives
 
 For the concentration, the school may offer elective courses to fulfill requirements in two or three areas of data and computational work. We have divided these into three categories: presentation/visualization, analysis for story, and journalistic programming. As a matter of designing degree requirements, a program might choose to require at least one class from each category in addition to fulfilling overall credit requirements.
 
-presentation & visualization
+#### presentation & visualization
 
 *   Data Visualization
 *   Visual Journalism with Data and Computation
 *   Advanced Data Visualization
 *   Advanced Journalistic Mapping
 
-analysis for story
+#### analysis for story
 
 *   Writing About Data
 *   Statistical Analysis for Journalism
 *   Advanced Computational Reporting Methods (Using CAR)
 
-journalistic programming
+#### journalistic programming
 
 *   Introduction to Journalistic Programming
 *   Methods of Collecting Data and Automating Reporting
 *   News App Development
 *   Advanced Computational Journalism
 
-Elective Coursework Graduate Degree with Concentration in Data & Computation
+## Elective Coursework Graduate Degree with Concentration in Data & Computation
 
-Methods of Collecting Data & Automating Reporting
+### Methods of Collecting Data & Automating Reporting
 
 course description: This course focuses on developing expertise in gathering data, cleaning it, storing it in a database, and retrieving it with ease. It also emphasizes building automated tools to serve as data sources in reporting.
 
@@ -295,7 +277,7 @@ example assignments:
 *   group project: Build a sensor network to automatically post temperature or air quality measurements online.
 *   final project: Gather a useful body of data, previously unavailable, and share it publicly.
 
-Visual Journalism with Data and Computation
+### Visual Journalism with Data and Computation
 
 course description: This course covers a range of methods, media, and formats for the graphic presentation of information. Readings should introduce principles of visual design and integrate these into regular assignments. Beginning with a fairly basic program like Tableau, the class should highlight the effective and accurate presentation of information in graphic form. By the middle of the term, students should branch out into using a programming library such as D3 to design their own graphics outside the constraints of existing software.
 
@@ -310,7 +292,7 @@ example assignments:
 *   homework: Use Tableau to find a story in a previously unexplored data set.
 *   final project: Create an original visualization or interactive piece programmed by hand (presumably in D3 or even pure JavaScript if it was taught in an earlier class).
 
-Advanced Data Analysis & Journalistic Algorithms
+### Advanced Data Analysis & Journalistic Algorithms
 
 course description: This course should build upon the core, required classes to bring together data and computation for finding stories and making predictions using algorithmic and computational analysis.
 
@@ -328,17 +310,8 @@ example assignments:
 *   final project option: Build an election or market prediction model.
 *   final project option: Reverse engineer a pricing, lending, or credit score algorithm.
 
-Cybersecurity Skills
 
-We recommend that students concentrating in data and computation take a module on digital security because it will be a necessary consideration in their work.
-
-Every news organization should have an information technology staff that is capable of securing its digital infrastructure and advising staff about security risks and countermeasures. In practice, this is not enough. More editorial staff should be trained in digital security in order to assess and address risks to the organization, its sources, and its readers. This training would dovetail with the technical skills that students in a computational journalism course are already learning.
-
-Cybersecurity has become an increasingly salient ethical concern, especially in the wake of the Snowden leaks, but digital security skills are rarely taught in journalism schools today. Just as no journalism student should graduate without some sense of libel law, no student should leave without knowing at least the dangers of insecure communication channels and practices, and ideally also some solutions.
-
-For introductions to encryption and digital security for journalists, see Micah Lee’s “Encryption Works” handbook, published by the Freedom of the Press Foundation, and “Security for Journalists” by Jonathan Stray.
-
-Advanced Data Visualization
+### Advanced Data Visualization
 
 course description: This course would pick up from the data visualization skills developed in the core course in visual journalism. The technical aspects should be conducted entirely through programming. The most likely tools are JavaScript and D3, but others will certainly emerge. The key point is that data visualization at this level should be programmatic so that the software itself does not limit design possibilities.
 
@@ -353,7 +326,7 @@ example assignments:
 *   homework: Regular data assignments in different media: static web, video, interactive.
 *   final project: An original analysis of unexplored data, presented in an original visualization programmed more or less from scratch, with cross-platform consistency.
 
-Advanced Journalistic Mapping
+### Advanced Journalistic Mapping
 
 course description: This course should build on previous coursework in mapping to cover more advanced manipulations of data, to develop a higher degree of design sophistication, and to develop a high level of news judgment in the selection of timely, compelling, and original topics. This involves using GIS technologies, joining that spatial data with other information, using density and other spatial analysis to inform stories, not just building presentations.
 
@@ -369,7 +342,7 @@ example assignments:
 *   final project: An interactive map or set of maps telling a story about a timely or unexplored subject, and/or a narrative story using findings from the mapping analysis.
 *   class project: Build a sensor network or otherwise amass an unexplored data set, then work in small groups to build a package of maps to explore the data.
 
-Advanced Journalistic Text Mining
+### Advanced Journalistic Text Mining
 
 course description: Text is data. The purpose of this class is to teach journalists to gather, analyze, and present stories using large amounts of textual data. This may build on material from the course “Methods of Collecting Data and Automating Reporting.”
 
@@ -385,7 +358,7 @@ example assignments:
 *   final project: Build a scraper to crawl a significant chunk of the Web, for example, collecting the blogosphere of a country that’s in the news and learning what people are talking about.
 *   final project: Gather and analyze a large body of documents, such as looking for a story in a leaked cache of documents.
 
-Advanced Computational Journalism
+### Advanced Computational Journalism
 
 course description: This course should reflect the state of computational tools in journalistic practice while looking toward novel applications of emerging and unexplored tools. By this time, students should have already developed a strong foundation of programming and data analysis skills. This class should build on that foundation and encourage in-depth, independent projects centered on reporting stories or developing a piece of software.
 
@@ -399,25 +372,26 @@ example assignments:
 *   mock coding interview: In the common style of interviewing for tech jobs, solve a given programming problem on a whiteboard and narrate your line of thinking.
 *   final project: An in-depth story reported using an advanced tool, including but not limited to a journalistic algorithm, machine learning, analysis of personally gathered data, or development of a piece of software.
 
-Capstone or Thesis Project
+### Capstone or Thesis Project
 
 A thesis in data journalism will arise, ideally, from work with instructors and an adviser. It could take the form of a reported story, a technical report, a piece of software, or a substantial design piece such as a map or data visualization.
 
 A capstone project for concentrators in data and computation may take a class of students and coordinate a project using and honing the skills they have developed in their earlier coursework. Each student’s work should then be supplemented with an individual contribution such as a reported piece or data visualization.
 
-Model 4\. Advanced Graduate Degree: Expertise-Driven Reporting on Data & Computation
+
+## Model 4. Advanced Graduate Degree: Expertise-Driven Reporting on Data & Computation
 
 While most undergraduate and master’s programs are designed to offer journalistic newcomers a set of skills that can be applied to a wide range of subjects, there is also demand for mid-career journalists to return for coursework in which they can develop deep expertise to report on complicated subjects. As highly technical topics have come to permeate matters from international politics to everyday life, journalism schools may wish to offer classes that prepare students and equip mid-career journalists to report on such issues as cyberwar, data breaches, and cryptocurrency that require specialized skill when writing for a general audience. The uses of data, machine learning, and computational models may also aid these reporters in finding and telling these stories.
 
 Data and computational journalism are ideal subjects for a mid-career degree because of the time and mentorship that could be devoted to developing this set of skills. Since it is directed at students who already know how journalism works, this degree could provide a level of depth and focus that may be difficult to reach during a standard journalism program or while working a full-time job.
 
-Courses
+### Courses
 
-Foundations of Data-Driven Journalism
+### Foundations of Data-Driven Journalism
 
 (as detailed on page 50, but adapted to the level of advanced students)
 
-Reporting About Data
+### Reporting About Data
 
 course description: : The goal of this course is to prepare students to understand and critically assess reports, studies, scholarly work, and other information sources that are based in data and technical work. This will be an essential skill as each student develops a focus as an expert reporter on a topic centered on data, computation, technology, or the experimental sciences.
 
@@ -428,11 +402,11 @@ example assignments:
 *   response papers: Weekly analysis and reflection on class readings.
 *   term paper: A substantial long-form reporting project on a topic of the student’s choosing, possibly developed as an outgrowth of a weekly response paper.
 
-Thesis
+### Thesis
 
 course description and structure: Seminar in which students develop independent reporting projects, sharing progress during class and meeting regularly with an adviser to build toward a master’s thesis.
 
-Electives
+### Electives
 
 One of the goals of a mid-career, expertise-driven degree in journalism is for students to develop a deep understanding of the field they are reporting. To this end, this degree should offer several elective slots for taking classes in other departments that contribute directly to the subject of the thesis.
 
@@ -448,7 +422,8 @@ example electives and justification:
 
 The point of elective courses should be to permit students to craft a coursework plan that is suitable to their own unique interests as they develop the capacity for expertise-driven reporting in some area related to data, computation, and emerging technologies.
 
-Model 5\. Advanced Graduate Degree: Emerging Journalistic Techniques and Technologies
+
+## Model 5. Advanced Graduate Degree: Emerging Journalistic Techniques and Technologies
 
 Investigative reporting is in many ways the research and development wing of journalism. According to Brant Houston, “It’s the only place where people have had an extensive amount of time to try out new techniques.”
 
@@ -458,15 +433,8 @@ If journalism schools were to take up the mantle of encouraging work that seems 
 
 This curriculum is in many ways the least structured and most speculative one we offer. It is an open question whether these degrees should be offered at the master’s or doctoral level. One might also ask whether the degree should require any coursework or simply provide an open platform for research.
 
-Old and New Technologies
 
-The history of technology often appears to move in regular cycles of emergence and obsolescence, but in fact old technologies are rarely eclipsed entirely. We must be cautious with the concept of “emerging” technologies because we risk missing the continued utility of old ones.
-
-For example, microcontrollers like the Arduino have minimal computing power by contemporary standards, but they are powerful enough to process a set of programmed instructions for projects like gathering sensor data. These devices have proved especially useful because of their simplicity, not in spite of it. Similarly, as we promote spaces for journalism schools to explore technologies so new that their uses are not yet apparent, it will be worthwhile to maintain a perspective broad enough to consider the utility of seemingly obsolete technologies.
-
-We should also bear in mind the long histories of platforms like virtual reality and holograms as part of our cultural imagination, if not yet as successful mass products. In past conceptions of the future, we may rediscover promising avenues for innovation.
-
-Structure and Topics
+### Structure and Topics
 
 One objective for this program would be to help teach algorithms for journalism, machine learning, and artificial intelligence.
 
@@ -476,13 +444,13 @@ Many other emerging technologies have been recognized for their journalistic pot
 
 The point is not to speculate on the arrival of these devices, nor to promote innovation for its own sake, but to consider the role of journalism schools in developing and shaping the use of new devices.
 
-Setting and Gear for Emerging Technology Labs
+### Setting and Gear for Emerging Technology Labs
 
 Although many coding and design projects may require nothing more than a laptop, a variety of hardware should be on hand for students interested in experimenting with sensors and other hardware that can be used for journalistic projects.
 
 Ideally, cheap devices and components can be provided on an honor system, and more expensive gear checked out through an equipment room. A thriving example of this model is the Interactive Telecommunications Program at New York University. The program also designates a few shelves for donating useful scrap materials, such as old electronics to be dismantled for components or sheer curiosity.
 
-A Word on Safety
+### A Word on Safety
 
 Most innovation labs will feature at least one tool or device that requires safety training. Most journalism students will arrive without having had experience handling soldering irons or electrical wiring.
 

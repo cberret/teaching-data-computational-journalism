@@ -1,7 +1,7 @@
 # Chapter 3: Qualitative Findings: Interviews and Observations
 
 
-Identifying What to Teach
+## Identifying What to Teach
 
 “Data journalism isn’t easy to define or to teach. It is constantly changing and best practices are evolving. One needs to learn a lot by doing, too.” – Jonah Newman of the Chicago Reporter
 
@@ -25,7 +25,7 @@ Chinoy relates this to the 2009 “Miracle on the Hudson” and how the pilot us
 
 Chinoy emphasized that the information should not always be presented to the students up front. He likes to give them a chance to come up against obstacles. They also need to develop a sense of when data could be problematic, what are signs of that, and what is each student’s best practice for examining the data.
 
-The Coding Issue
+## The Coding Issue
 
 Whether data journalists need to program remains an active debate. But when we delved into this issue, we found that we first need to define what we mean in terms of data journalism. To some, “code” means web development and design—back to the concept of HTML and CSS. “Programming” means writing programs that enable advanced mining of data or algorithms that could identify patterns.
 
@@ -51,7 +51,7 @@ Data journalists are starting to address this type of coverage, but it takes a d
 
 In other iterations, this level of computational journalism means examining information in new, more complex ways. Examples of that type of data journalism are the Wall Street Journal’s coverage of the Medicare system, which received the 2015 Pulitzer Prize in Investigative Reporting, and Reuters’ 2014 project examining influence in the Supreme Court.
 
-Institutional Challenges: Resources
+## Institutional Challenges: Resources
 
 Depending on the university, some students need more support with technology. Some students still do not own personal laptops and rely on school computer labs for their assignments, for example. Other students may be using personal computing devices that are not equipped with what they need to do data journalism. Students who use a tablet (such as an iPad) as their primary tool will face barriers.
 
@@ -63,7 +63,7 @@ Journalism schools can help these students by investing in up-to-date lab equipm
 
 And for students who are working on their own personal laptops, some professors hold provisioning sessions to help students install the needed software at the beginning of the term.
 
-Institutional Challenges: Faculty Expertise
+## Institutional Challenges: Faculty Expertise
 
 There is no secret that a divide exists between the professional journalism world and the academic world. This chasm continues even with faculty when it comes to who teaches data journalism and the impact it will have on the department.
 
@@ -85,7 +85,7 @@ For Dustin Harp at the University of Texas, Arlington, this conundrum was solved
 
 “The thing is I’m a qualitative researcher, I’m not a numbers person, I’m not a numbers cruncher, so it was very crazy and daunting. After I said I was going to do it, it was on the schedule, I was like what have I gotten myself into?” Harp said. “But I follow the field. . . . I’m aware that data journalism is, it’s a tool our students need to be more competitive to get jobs.”
 
-Institutional Challenges: Student Engagement
+## Institutional Challenges: Student Engagement
 
 Journalism programs need to do a better job of persuading or even requiring students to take a data journalism class. Students may shy away because they believe they aren’t any good at math. “A lot of students are scared of ‘that math thing,’” said one journalism student at Northwestern University.
 
@@ -106,4 +106,3 @@ Some students work their way through to find what they need. For instance, one s
 Several students suggested that schools should offer a track that could include a journalistically focused statistics class, a class that focuses on databases, a class with a focus on reporting with data, and others that delve into more in-depth data reporting and data visualization.
 
 One of the authors of this report co-taught a spring 2015 watchdog reporting class with an engineering professor. Five computer science students embedded into project teams of journalism students. The journalism students learned new data skills, and the computer science students learned techniques in reporting and writing. The class offered challenges, too. Next time around, there may be a more defined way for the journalism students to take on data challenges of their own and continued emphasis on having the computer science students learn skills such as interviewing.
-
