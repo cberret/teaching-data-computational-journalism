@@ -1,6 +1,6 @@
 # Teaching Data and Computational Journalism {#teaching-data-and-computational-journalism}
 
-Teaching Data aND ComputationalJournalism
+Teaching Data and Computational Journalism
 
 Charles Berret & Cheryl Phillips
 
@@ -30,9 +30,17 @@ This book was set in Adobe Jenson Pro and Arno Pro, both by Robert Slimbach.
 
 The cover, layout, and graphics were designed by Jessica Griscti. Find her at jesslovestype.com
 
+
+
+
 Contents
 
-Preface 7Executive Summary 8Introduction 11
+Preface 7
+
+Executive Summary 8
+
+Introduction 11
+
 
 Chapter 1: Defining the Field of Study
 
@@ -43,6 +51,7 @@ Four Key Areas of Data Journalism 17
 A Brief History of Computers and Journalists 20
 
 The Task at Hand: Causes for Concern and Reasons for Hope 27
+
 
 Chapter 2: State of the Field: Our Quantitative Data
 
@@ -58,6 +67,7 @@ Alternative Data Journalism Instruction: The State of Online Courses 38
 
 Textbooks: Little Consensus 39
 
+
 Chapter 3: Qualitative Findings: Interviews and Observations
 
 Identifying What to Teach 41
@@ -70,19 +80,21 @@ Institutional Challenges: Faculty Expertise 45
 
 Institutional Challenges: Student Engagement 46
 
+
 Chapter 4: Model Curricula in Data and Computation
 
 Introduction and Summary of Curricular Recommendations 49
 
-Model 1\. Integrating Data as a Core Class: Foundations of Data Journalism 50
+Model 1. Integrating Data as a Core Class: Foundations of Data Journalism 50
 
-Model 2\. Integrating Data and Computation into Existing Courses and Concentrations: General Guidelines for the Undergraduate and Graduate Levels 53
+Model 2. Integrating Data and Computation into Existing Courses and Concentrations: General Guidelines for the Undergraduate and Graduate Levels 53
 
-Model 3\. Concentration in Data and Computation 60
+Model 3. Concentration in Data and Computation 60
 
-Model 4\. Advanced Graduate Degree: Expertise-Driven Reporting on Data & Computation 67
+Model 4. Advanced Graduate Degree: Expertise-Driven Reporting on Data & Computation 67
 
-Model 5\. Advanced Graduate Degree: Emerging Journalistic Techniques and Technologies 69
+Model 5. Advanced Graduate Degree: Emerging Journalistic Techniques and Technologies 69
+
 
 Chapter 5: Institutional Recommendations
 
@@ -98,11 +110,14 @@ Benefits of Distance or Online Learning 75
 
 Fostering Collaboration 76
 
+
 Appendix 78
 
 Works Cited 90
 
 Acknowledgments 92
+
+
 
 Preface
 
