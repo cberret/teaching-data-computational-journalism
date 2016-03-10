@@ -3,7 +3,7 @@
 * [Teaching Data and Computational Journalism](README.md)
 * Contents
 * [Preface](preface.md)
-* Executive Summary
+* [Executive Summary](executive_summary.md)
 * Introduction
 * Chapter 1: Defining the Field of Study
 * Chapter 2: State of the Field: Our Quantitative Data
