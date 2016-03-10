@@ -1,7 +1,6 @@
 # Summary
 
 * [Teaching Data and Computational Journalism](README.md)
-* Contents
 * [Preface](preface.md)
 * [Executive Summary](executive_summary.md)
 * [Introduction](introduction.md)
