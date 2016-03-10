@@ -4,7 +4,7 @@
 * Contents
 * [Preface](preface.md)
 * [Executive Summary](executive_summary.md)
-* Introduction
+* [Introduction](introduction.md)
 * Chapter 1: Defining the Field of Study
 * Chapter 2: State of the Field: Our Quantitative Data
 * Chapter 3: Qualitative Findings: Interviews and Observations
