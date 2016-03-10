@@ -6,7 +6,7 @@
 * [Executive Summary](executive_summary.md)
 * [Introduction](introduction.md)
 * [Chapter 1: Defining the Field of Study](chapter_1_defining_the_field_of_study.md)
-* Chapter 2: State of the Field: Our Quantitative Data
+* [Chapter 2: State of the Field: Our Quantitative Data](chapter_2_state_of_the_field_our_quantitative_data.md)
 * Chapter 3: Qualitative Findings: Interviews and Observations
 * Chapter 4: Model Curricula in Data and Computation
 * Chapter 5: Institutional Recommendations
