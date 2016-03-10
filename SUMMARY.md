@@ -12,4 +12,5 @@
 * [Chapter 5: Institutional Recommendations](chapter_5_institutional_recommendations.md)
 * [Appendix](appendix.md)
 * Acknowledgments
+* Acknowledgments
 
