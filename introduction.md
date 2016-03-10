@@ -1,2 +1,42 @@
 # Introduction
 
+Journalism schools have a long history of avoiding the call for instruction in quantitative skills. A little over a century ago, when the idea of teaching journalism at the college level was practically unthinkable, Joseph Pulitzer wrote an essay arguing for the potential and civic importance of journalism education—all as a response to several schools refusing the money he had hoped to donate in order to establish such a school. In this 1904 essay in the North American Review, Pulitzer outlined the skills he thought journalists would need in order to serve this lofty civic role. It was an ambitious list, highlighting law and ethics, history and literature, truth and accuracy, as well as a range of mathematical and scientific disciplines. Among these, Pulitzer specifically insisted on educating journalists in statistics.
+
+Everybody says that statistics should be taught. But how? Statistics are not simply figures. It is said that nothing lies like figures—except facts. You want statistics to tell you the truth. You can find truth there if you know how to get at it, and romance, human interest, humor and fascinating revelations, as well. The journalist must know how to find all these things—truth, of course, first.1
+
+This proposal for a statistics curriculum was largely left behind in the wave of journalism programs that were established in the twentieth century, including at Columbia, the school that bears Pulitzer’s name. Core reporting classes have taught students to gather, analyze, and present information, mostly through shoe-leather reporting and writing skills.
+
+Data journalism and other quantitative reporting methods, on the other hand, have been developed largely in the field. Working journalists were the ones who first saw the potential of analyzing and presenting data, and of adopting tools such as spreadsheets and databases for stories, visualizations, and apps. Much of the instruction has come through professional workshops, not in classrooms.
+
+To be sure, journalism programs have offered classes in research methodology, descriptive statistics, and basic numeracy. The Accrediting Council on Education in Journalism and Mass Communications (ACEJMC), which accredits roughly a fourth of the journalism programs in the nation, lists the ability to “apply basic numerical and statistical concepts” among the core competencies it expects its accredited schools to teach. This accreditation process is designed to be a voluntary process that helps schools maintain quality by meeting a set of national standards. Benchmarks such as statistical concepts are useful, but they don’t get to the heart of what it means to teach data journalism.
+
+Many of the statistics and numeracy courses required for journalism majors are theoretical in nature, rather than journalistic. Despite the inclusion of basic statistics in schools of journalism and communications, the use of data and computation as applied to journalism has remained a set of niche practices, often omitted from journalism programs, our analysis shows.
+
+Some of the early quantitative reporting methods that made the jump from practice to the classroom came with the move of key data journalists to academia. Over time, video and web-based multimedia, such as slideshows or timelines, were integrated into journalism instruction. Web and multimedia skills instruction now seems to outnumber data journalism instruction.
+
+To get a better sense of what is being taught, we collected information on the course offerings of 113 programs located within the United States, including Puerto Rico. Four of the programs held a provisional accreditation and the remainder were fully accredited with ACEJMC. Chapter 2 of this report includes a longer discussion of our findings, while full tables of our data can be found in the appendix.
+
+Of the 113 programs, 93 offer multimedia instruction—how to design a website, launch a blog, or shoot video for the Web. The average number of multimedia classes was 3\. Far fewer journalism programs offer data analysis or visualization. A little more than half of these universities, 59 of the 113 schools we reviewed, regularly offer one or more data journalism classes. Among the 59 that teach data journalism, the average number of data journalism classes offered was 2.8, with a median of 2\. The average across all 113 schools in our study was 1.4 data journalism classes each.
+
+We defined a data journalism class as being focused on the intersection of data and journalism, and using spreadsheets, statistical software, relational databases, or programming toward that end. We excluded courses in numeracy, research methodologies, and statistics unless they included an explicit focus on data journalism.
+
+The 59 programs we identified as offering data journalism included a wide range of courses. At a minimum, programs offered courses that taught students to use spreadsheets to analyze data for journalistic purpose. At the other end of the spectrum, some schools provided that basic data journalism instruction and far more, teaching multiple classes in programming skills, such as scraping the Web, building news apps, or creating advanced data visualizations.
+
+But those more advanced programs were rare. Of the 59 programs we identified that teach at least one data journalism class, 27 of the schools offered just one course, usually foundational. Fourteen journalism programs offered two classes. Just 18 of the 59 schools offered three or more classes.
+
+For those students who learn data journalism, a robust job market awaits. But when it comes to teaching data journalism, it’s difficult to find journalists to do it full time. Many work as adjuncts, but the pay is low. Additionally, even as some universities add classes in web development and coding, they have not kept pace with offering courses in computer-assisted reporting skills like learning how to analyze and understand data.
+
+For advanced positions in data journalism—jobs that deal with statistics and mapping, novel forms of data visualization, rich online databases, and machine learning—little is available in the way of data journalism education preparation. Students who study both computer science and data journalism are well positioned to move into some of these more challenging jobs, but there is a dearth of such job candidates, say data journalists.
+
+This paper will delve into the state of data journalism education today and present the lessons learned from those who have taught, studied, and practiced data journalism—what doesn’t work and should be abandoned, and what works and how it can be more widely adopted.
+
+In the hope of providing practical guidance from leaders in the data journalism world, we will offer model curricula designed to reach a broad swath of educational institutions, from public land-grant universities to private institutions, for both undergraduate programs and graduate-level study, as well as possible concentrations and specialized efforts in graduate programs.
+
+The goal throughout is to help journalism education move toward a more cohesive and thoughtful vision, one that will help to educate journalists who understand and use data as a matter of course—and as a result, produce journalism that may have more authority, yield stories that may not have been told before, and develop new forms of journalistic storytelling.
+
+This vision of bringing data journalism into the mainstream of journalism education has yet one more, broader mission: improving the future of journalism education programs from a research perspective. The practice of data journalism—analyzing, sifting, and telling stories from information—will increase the contribution of journalism schools to the range of data-centered fields emerging across university campuses.
+
+Data journalism “also can be a bridge to other parts of the university,” said James T. Hamilton, an economist and director of the journalism program at Stanford University, which in 2015 launched the Stanford Computational Journalism Lab. He pointed to possible collaborations with social scientists as just one example.
+
+The authors and a committee of professors and professional data journalists agree that if journalists and journalism educators want to innovate, then equipping our students with practical data skills and, more importantly, a data frame of mind, is a vital part of the path forward for the students, faculty, and administrators.
+
