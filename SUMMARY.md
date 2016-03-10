@@ -5,7 +5,7 @@
 * [Preface](preface.md)
 * [Executive Summary](executive_summary.md)
 * [Introduction](introduction.md)
-* Chapter 1: Defining the Field of Study
+* [Chapter 1: Defining the Field of Study](chapter_1_defining_the_field_of_study.md)
 * Chapter 2: State of the Field: Our Quantitative Data
 * Chapter 3: Qualitative Findings: Interviews and Observations
 * Chapter 4: Model Curricula in Data and Computation
