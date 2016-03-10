@@ -10,6 +10,6 @@
 * [Chapter 3: Qualitative Findings: Interviews and Observations](chapter_3_qualitative_findings_interviews_and_obse.md)
 * [Chapter 4: Model Curricula in Data and Computation](chapter_4_model_curricula_in_data_and_computation.md)
 * [Chapter 5: Institutional Recommendations](chapter_5_institutional_recommendations.md)
-* Appendix
+* [Appendix](appendix.md)
 * Acknowledgments
 
